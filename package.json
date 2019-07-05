@@ -1,0 +1,33 @@
+{
+  "name": "nesin",
+  "version": "1.0.0",
+  "description": "react native ui kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexelse/nesin.git"
+  },
+  "keywords": [
+    "nesin",
+    "react",
+    "native",
+    "ui",
+    "kit"
+  ],
+  "author": "asimolmez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexelse/nesin/issues"
+  },
+  "homepage": "https://github.com/lexelse/nesin#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.55.0"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.60.0"
+  }
+}
