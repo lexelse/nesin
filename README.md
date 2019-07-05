@@ -1,2 +1,3 @@
-# nesin
-react native ui kit
+NESIN
+
+Open-source UI toolkit for React Native
