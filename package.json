@@ -4,7 +4,10 @@
   "description": "react native ui kit",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
   },
   "repository": {
     "type": "git",
@@ -27,7 +30,10 @@
     "metro-react-native-babel-preset": "^0.55.0"
   },
   "dependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/runtime": "^7.5.0",
     "react": "^16.8.6",
-    "react-native": "^0.60.0"
+    "react-native": "^0.60.0",
+    "react-test-renderer": "^16.8.6"
   }
 }
